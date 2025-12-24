@@ -1,0 +1,2 @@
+# Federated-Learning-framework-for-secure-and-privacy-preserving-Internet-of-Medical-Things-IoMT-
+This repository presents a Federated Learning–based framework for securing Internet of Medical Things (IoMT) environments. The approach enables multiple medical devices and institutions to collaboratively train machine learning models without sharing raw patient data, ensuring privacy, security, and regulatory compliance.
